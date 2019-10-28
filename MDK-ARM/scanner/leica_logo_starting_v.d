@@ -1,0 +1,9 @@
+scanner\leica_logo_starting_v.o: ..\Leica_logo_starting_v.c
+scanner\leica_logo_starting_v.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\GUI.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\Config\GUIConf.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\LCD.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\Global.h
+scanner\leica_logo_starting_v.o: ..\EMWIN\STemWin\inc\GUI_Version.h

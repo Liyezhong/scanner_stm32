@@ -1,0 +1,9 @@
+scanner\colorbands.o: ..\colorbands.c
+scanner\colorbands.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\GUI.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+scanner\colorbands.o: ..\EMWIN\STemWin\Config\GUIConf.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\LCD.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\Global.h
+scanner\colorbands.o: ..\EMWIN\STemWin\inc\GUI_Version.h

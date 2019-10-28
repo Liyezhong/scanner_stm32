@@ -1,0 +1,9 @@
+scanner\emwin_demo.o: ..\source_from_yuanzi\emwin_demo.c
+scanner\emwin_demo.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\GUI.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\Config\GUIConf.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\LCD.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\Global.h
+scanner\emwin_demo.o: ..\EMWIN\STemWin\inc\GUI_Version.h

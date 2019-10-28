@@ -1,0 +1,9 @@
+scanner\logo_frame.o: ..\Logo_frame.c
+scanner\logo_frame.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\GUI.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\Config\GUIConf.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\LCD.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\Global.h
+scanner\logo_frame.o: ..\EMWIN\STemWin\inc\GUI_Version.h

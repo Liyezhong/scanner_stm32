@@ -1,0 +1,9 @@
+scanner\ok.o: ..\ok.c
+scanner\ok.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdlib.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\GUI.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\GUI_ConfDefaults.h
+scanner\ok.o: ..\EMWIN\STemWin\Config\GUIConf.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\GUI_Type.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\LCD.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\Global.h
+scanner\ok.o: ..\EMWIN\STemWin\inc\GUI_Version.h
